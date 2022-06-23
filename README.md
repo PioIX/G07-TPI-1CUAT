@@ -1,2 +1,2 @@
-# GRUPO7
+# G07-Trabajo-Interdisciplinario
 Proyecto interdisciplinario
